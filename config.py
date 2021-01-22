@@ -16,3 +16,4 @@ class DefaultConfig:
     LUIS_APP_ID = "25a9586a-daa4-437f-b3ab-b347d3f1f467"
     LUIS_API_KEY = "21b55404c0ea4531981fbd9865de699b"
     LUIS_API_HOST_NAME = "westus.api.cognitive.microsoft.com"
+

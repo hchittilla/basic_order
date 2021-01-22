@@ -24,6 +24,7 @@ This sample **requires** prerequisites in order to run.
 
 - Install the Bot Framework Emulator version 4.3.0 or greater from [here](https://github.com/Microsoft/BotFramework-Emulator/releases)
 
+
 ### Connect to the bot using Bot Framework Emulator
 
 - Launch Bot Framework Emulator
